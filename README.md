@@ -7,7 +7,6 @@
 
 | Integrantes     |     Turma      |   RM     |
 | -------------   |   ---------    | -------- |
-| Carlos Eduardo  |     2TDSPV     |  94787   |
 | Cauã Couto      |     2TDSS      |  97755   |
 | Kaique Agostinho|     2TDSS      |  550815  |
 | Leonardo Matheus|     2TDSPV     |  99824   |
